@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<address>上海市浦东新区广兰路</address>
+	<ID>1</ID>
+	<value>27</value>
+	<isMale>true</isMale>
+</Config>
